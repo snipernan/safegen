@@ -1,0 +1,29 @@
+{
+  "默认": {
+    "min": 12,
+    "max": 20,
+    "use_upper": true,
+    "use_lower": true,
+    "use_digits": true,
+    "use_symbols": true,
+    "exclude": ""
+  },
+  "银行模式": {
+    "min": 10,
+    "max": 16,
+    "use_upper": true,
+    "use_lower": true,
+    "use_digits": true,
+    "use_symbols": false,
+    "exclude": "0OIl1| "
+  },
+  "邮箱常用": {
+    "min": 12,
+    "max": 24,
+    "use_upper": true,
+    "use_lower": true,
+    "use_digits": true,
+    "use_symbols": true,
+    "exclude": ""
+  }
+}
